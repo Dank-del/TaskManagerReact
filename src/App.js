@@ -1,11 +1,10 @@
-import NavBar from './NavBar';
-import LoginPage from './LoginPage';
+// import LoginPage from './LoginPage';
+import TaskList from './TaskList';
 
 function App() {
   return (
     <div className="App">
-      <NavBar/>
-      <LoginPage/>
+      <TaskList/>
     </div>
   );
 }

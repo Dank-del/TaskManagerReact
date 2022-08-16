@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.hello" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>hello world</name>
-    <description>Sample Apache Cordova App</description>
-    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
-        Apache Cordova Team
+<widget id="in.org.sayan" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Task Manager</name>
+    <description>Task Manager App made by Team 02 of SurTech</description>
+    <author email="dankguy6146@gmail.com" href="https://www.surtech.edu.in">
+        Team 02
     </author>
     <content src="index.html" />
     <allow-intent href="http://*/*" />
